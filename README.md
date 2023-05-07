@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Real Estate](https://github.com/JDTrespalacios/RealEstate)
 
-- 🌱 I’m currently learning **PHP & MySQL**
+- 🌱 I’m currently learning **PHP & SQL (MySQL)**
 
 - 📫 Reach out to me **jorg3pro@gmail.com**
 
