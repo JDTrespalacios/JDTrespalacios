@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on [Real Estate](https://github.com/JDTrespalacios/RealEstate)
+- 🔭 I’m currently working on [BarberShop](https://github.com/JDTrespalacios/Barber-Shop)
 
 - 🌱 I’m currently learning **PHP OOP, MVC & SQL**
 
