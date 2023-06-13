@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BarberShop](https://github.com/JDTrespalacios/Barber-Shop)
 
-- 🌱 I’m currently learning **PHP OOP, MVC & SQL**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 Reach out to me **jorg3pro@gmail.com**
 
