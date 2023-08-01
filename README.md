@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Take a look at some of my projects</h3>
 
 - 🔭 I’m currently working on [BarberShop](https://github.com/JDTrespalacios/Barber-Shop)
 
